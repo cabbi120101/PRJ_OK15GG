@@ -1,9 +1,10 @@
-## HELLO
+## OK15GG
+리그오브레전드 API를 활용하여 디스코드 챗봇 제작
+멀티캠퍼스 마지막 프로젝트
 
-# final_multi
-# final_multi
-# final_multi
-# final_multi
-# final_multi
-# final_multi
-# final_multi
+### 기능
+1. 게임 중 승률 예측
+2. 조합 승률 예측
+3. 유사 챔피언 추천
+4. 유저 전적 검색
+5. 챔피언 정보 검색
